@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f053eb49-4881-45fa-9c7a-a17c562b9c10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KonsepOop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Greeter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/GreeterTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/AccessModifier.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/AccessModifierB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/DataClassA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/DataClassB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/DataClassC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/DataClassD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/DataClassE.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/EnkapsulasiA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/EnkapsulasiB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InheritanceA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InheritanceB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InheritanceC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InheritanceD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InheritanceE.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InheritanceF.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InheritanceG.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InheritanceH.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InitOrder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InterfaceA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InterfaceB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InterfaceC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/InterfaceD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/MyBase.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/NestedInnerClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/NestedInnerClassA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/NestedInnerClassB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/PersonA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/PersonB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/PersonC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/PersonD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/PersonE.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/PersonF.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/PolymorphismA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/PolymorphismB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/wani/test_kelas/VisibilityA.kt" afterDir="false" />
-    </list>
+    <list default="true" id="f053eb49-4881-45fa-9c7a-a17c562b9c10" name="Changes" comment="push stater project." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,31 +20,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mSwm9nPpVPwyEIQUwhPdA6pImc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.AccessModifierBKt.executor": "Run",
-    "Kotlin.AccessModifierKt.executor": "Run",
-    "Kotlin.GreeterTestKt.executor": "Run",
-    "Kotlin.InitOrderKt.executor": "Run",
-    "Kotlin.PersonAKt.executor": "Run",
-    "Kotlin.PersonBKt.executor": "Run",
-    "Kotlin.PersonDKt.executor": "Run",
-    "Kotlin.PersonFKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.AccessModifierBKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AccessModifierKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GreeterTestKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InitOrderKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PersonAKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PersonBKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PersonDKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PersonFKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.AccessModifierBKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.DataClassAKt">
     <configuration name="AccessModifierBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.wani.test_kelas.AccessModifierBKt" />
       <module name="KonsepOop" />
@@ -106,15 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreeterTestKt" />
+    <configuration name="DataClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.wani.test_kelas.DataClassAKt" />
       <module name="KonsepOop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.wani.test_kelas.PersonBKt" />
+    <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreeterTestKt" />
       <module name="KonsepOop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassAKt" />
         <item itemvalue="Kotlin.AccessModifierBKt" />
         <item itemvalue="Kotlin.AccessModifierKt" />
         <item itemvalue="Kotlin.GreeterTestKt" />
         <item itemvalue="Kotlin.PersonDKt" />
-        <item itemvalue="Kotlin.PersonBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +99,52 @@
       <option name="presentableId" value="Default" />
       <updated>1727083445335</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit mesagge">
+      <option name="closed" value="true" />
+      <created>1727094066374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727094066374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit mesagge">
+      <option name="closed" value="true" />
+      <created>1727094581996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727094581996</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit mesagge">
+      <option name="closed" value="true" />
+      <created>1727096196900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727096196900</updated>
+    </task>
+    <task id="LOCAL-00004" summary="push stater project.">
+      <option name="closed" value="true" />
+      <created>1727098130543</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727098130543</updated>
+    </task>
+    <task id="LOCAL-00005" summary="push stater project.">
+      <option name="closed" value="true" />
+      <created>1727098139792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727098139792</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit mesagge" />
+    <MESSAGE value="push stater project." />
+    <option name="LAST_COMMIT_MESSAGE" value="push stater project." />
   </component>
 </project>
